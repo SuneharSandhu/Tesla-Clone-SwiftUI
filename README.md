@@ -15,7 +15,7 @@ This project is a clone of the Tesla mobile app built in Swift and SwiftUI. The 
 ## Installation
 1. Clone the repository
 
-      ```git clone https://github.com/<your-username>/TeslaClone.git```
+      ```git clone https://github.com/<your-username>/Tesla-Clone-SwiftUI.git```
 
 2. Open the project in Xcode
 2. Build and run the app on a simulator or a connected iOS device
