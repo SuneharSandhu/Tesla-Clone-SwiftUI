@@ -8,17 +8,45 @@
 
 /* Begin PBXBuildFile section */
 		6DB2EA112975B16A001AAB97 /* TeslaCloneApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6DB2EA102975B16A001AAB97 /* TeslaCloneApp.swift */; };
-		6DB2EA132975B16A001AAB97 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6DB2EA122975B16A001AAB97 /* ContentView.swift */; };
+		6DB2EA132975B16A001AAB97 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6DB2EA122975B16A001AAB97 /* HomeView.swift */; };
 		6DB2EA152975B16E001AAB97 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6DB2EA142975B16E001AAB97 /* Assets.xcassets */; };
 		6DB2EA182975B16E001AAB97 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6DB2EA172975B16E001AAB97 /* Preview Assets.xcassets */; };
+		6DB2EA1F2975C0B5001AAB97 /* ColorExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6DB2EA1E2975C0B5001AAB97 /* ColorExtension.swift */; };
+		6DB2EA232975C57C001AAB97 /* HeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6DB2EA222975C57C001AAB97 /* HeaderView.swift */; };
+		6DB2EA252975C662001AAB97 /* VoiceCommandButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6DB2EA242975C662001AAB97 /* VoiceCommandButton.swift */; };
+		6DB2EA272975C826001AAB97 /* CarSectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6DB2EA262975C826001AAB97 /* CarSectionView.swift */; };
+		6DB2EA292975DBF5001AAB97 /* CategoryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6DB2EA282975DBF5001AAB97 /* CategoryView.swift */; };
+		6DB2EA2E2975E5F4001AAB97 /* ActionItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6DB2EA2D2975E5F4001AAB97 /* ActionItem.swift */; };
+		6DB2EA312975EAA7001AAB97 /* AllSettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6DB2EA302975EAA7001AAB97 /* AllSettingsView.swift */; };
+		6DB2EA332975F904001AAB97 /* CarControlsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6DB2EA322975F904001AAB97 /* CarControlsView.swift */; };
+		6DB2EA372976017B001AAB97 /* LocationView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6DB2EA362976017B001AAB97 /* LocationView.swift */; };
+		6DB2EA392976019B001AAB97 /* CommonComponents.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6DB2EA382976019B001AAB97 /* CommonComponents.swift */; };
+		6DD47309297DD9A6002D8B99 /* ActionNotification.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6DD47308297DD9A6002D8B99 /* ActionNotification.swift */; };
+		6DD4730B297DDB11002D8B99 /* VoiceCommandView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6DD4730A297DDB11002D8B99 /* VoiceCommandView.swift */; };
+		6DD4730D297DDD17002D8B99 /* MediaPlayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6DD4730C297DDD17002D8B99 /* MediaPlayer.swift */; };
+		6DD4730F297DE388002D8B99 /* ChargingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6DD4730E297DE388002D8B99 /* ChargingView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		6DB2EA0D2975B16A001AAB97 /* TeslaClone.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TeslaClone.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6DB2EA102975B16A001AAB97 /* TeslaCloneApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TeslaCloneApp.swift; sourceTree = "<group>"; };
-		6DB2EA122975B16A001AAB97 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		6DB2EA122975B16A001AAB97 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 		6DB2EA142975B16E001AAB97 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6DB2EA172975B16E001AAB97 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		6DB2EA1E2975C0B5001AAB97 /* ColorExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorExtension.swift; sourceTree = "<group>"; };
+		6DB2EA222975C57C001AAB97 /* HeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderView.swift; sourceTree = "<group>"; };
+		6DB2EA242975C662001AAB97 /* VoiceCommandButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VoiceCommandButton.swift; sourceTree = "<group>"; };
+		6DB2EA262975C826001AAB97 /* CarSectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarSectionView.swift; sourceTree = "<group>"; };
+		6DB2EA282975DBF5001AAB97 /* CategoryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CategoryView.swift; sourceTree = "<group>"; };
+		6DB2EA2D2975E5F4001AAB97 /* ActionItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionItem.swift; sourceTree = "<group>"; };
+		6DB2EA302975EAA7001AAB97 /* AllSettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AllSettingsView.swift; sourceTree = "<group>"; };
+		6DB2EA322975F904001AAB97 /* CarControlsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarControlsView.swift; sourceTree = "<group>"; };
+		6DB2EA362976017B001AAB97 /* LocationView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationView.swift; sourceTree = "<group>"; };
+		6DB2EA382976019B001AAB97 /* CommonComponents.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommonComponents.swift; sourceTree = "<group>"; };
+		6DD47308297DD9A6002D8B99 /* ActionNotification.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ActionNotification.swift; sourceTree = "<group>"; };
+		6DD4730A297DDB11002D8B99 /* VoiceCommandView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VoiceCommandView.swift; sourceTree = "<group>"; };
+		6DD4730C297DDD17002D8B99 /* MediaPlayer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MediaPlayer.swift; sourceTree = "<group>"; };
+		6DD4730E297DE388002D8B99 /* ChargingView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChargingView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,8 +79,11 @@
 		6DB2EA0F2975B16A001AAB97 /* TeslaClone */ = {
 			isa = PBXGroup;
 			children = (
+				6DB2EA2C2975E5E9001AAB97 /* Model */,
+				6DB2EA202975C54C001AAB97 /* Views */,
 				6DB2EA102975B16A001AAB97 /* TeslaCloneApp.swift */,
-				6DB2EA122975B16A001AAB97 /* ContentView.swift */,
+				6DB2EA1E2975C0B5001AAB97 /* ColorExtension.swift */,
+				6DB2EA382976019B001AAB97 /* CommonComponents.swift */,
 				6DB2EA142975B16E001AAB97 /* Assets.xcassets */,
 				6DB2EA162975B16E001AAB97 /* Preview Content */,
 			);
@@ -65,6 +96,57 @@
 				6DB2EA172975B16E001AAB97 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		6DB2EA202975C54C001AAB97 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				6DB2EA342975F916001AAB97 /* HomeScreen */,
+				6DD47305297DD902002D8B99 /* ActionComponents */,
+				6DB2EA352976014D001AAB97 /* NavigationViews */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		6DB2EA2C2975E5E9001AAB97 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				6DB2EA2D2975E5F4001AAB97 /* ActionItem.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		6DB2EA342975F916001AAB97 /* HomeScreen */ = {
+			isa = PBXGroup;
+			children = (
+				6DB2EA122975B16A001AAB97 /* HomeView.swift */,
+				6DB2EA222975C57C001AAB97 /* HeaderView.swift */,
+				6DB2EA262975C826001AAB97 /* CarSectionView.swift */,
+				6DB2EA282975DBF5001AAB97 /* CategoryView.swift */,
+				6DB2EA242975C662001AAB97 /* VoiceCommandButton.swift */,
+				6DB2EA302975EAA7001AAB97 /* AllSettingsView.swift */,
+			);
+			path = HomeScreen;
+			sourceTree = "<group>";
+		};
+		6DB2EA352976014D001AAB97 /* NavigationViews */ = {
+			isa = PBXGroup;
+			children = (
+				6DB2EA322975F904001AAB97 /* CarControlsView.swift */,
+				6DB2EA362976017B001AAB97 /* LocationView.swift */,
+			);
+			path = NavigationViews;
+			sourceTree = "<group>";
+		};
+		6DD47305297DD902002D8B99 /* ActionComponents */ = {
+			isa = PBXGroup;
+			children = (
+				6DD47308297DD9A6002D8B99 /* ActionNotification.swift */,
+				6DD4730A297DDB11002D8B99 /* VoiceCommandView.swift */,
+				6DD4730C297DDD17002D8B99 /* MediaPlayer.swift */,
+				6DD4730E297DE388002D8B99 /* ChargingView.swift */,
+			);
+			path = ActionComponents;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -137,8 +219,22 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				6DB2EA132975B16A001AAB97 /* ContentView.swift in Sources */,
+				6DB2EA392976019B001AAB97 /* CommonComponents.swift in Sources */,
+				6DD4730B297DDB11002D8B99 /* VoiceCommandView.swift in Sources */,
+				6DB2EA372976017B001AAB97 /* LocationView.swift in Sources */,
+				6DB2EA252975C662001AAB97 /* VoiceCommandButton.swift in Sources */,
+				6DB2EA292975DBF5001AAB97 /* CategoryView.swift in Sources */,
+				6DB2EA272975C826001AAB97 /* CarSectionView.swift in Sources */,
+				6DB2EA1F2975C0B5001AAB97 /* ColorExtension.swift in Sources */,
+				6DB2EA2E2975E5F4001AAB97 /* ActionItem.swift in Sources */,
+				6DB2EA132975B16A001AAB97 /* HomeView.swift in Sources */,
+				6DD47309297DD9A6002D8B99 /* ActionNotification.swift in Sources */,
 				6DB2EA112975B16A001AAB97 /* TeslaCloneApp.swift in Sources */,
+				6DD4730F297DE388002D8B99 /* ChargingView.swift in Sources */,
+				6DB2EA232975C57C001AAB97 /* HeaderView.swift in Sources */,
+				6DB2EA332975F904001AAB97 /* CarControlsView.swift in Sources */,
+				6DB2EA312975EAA7001AAB97 /* AllSettingsView.swift in Sources */,
+				6DD4730D297DDD17002D8B99 /* MediaPlayer.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -273,8 +369,8 @@
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = UIInterfaceOrientationPortrait;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -282,9 +378,12 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.suneharsandhu.TeslaClone;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Debug;
 		};
@@ -302,8 +401,8 @@
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight UIInterfaceOrientationPortrait";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = UIInterfaceOrientationPortrait;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -311,9 +410,12 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.suneharsandhu.TeslaClone;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
-				TARGETED_DEVICE_FAMILY = "1,2";
+				TARGETED_DEVICE_FAMILY = 1;
 			};
 			name = Release;
 		};
