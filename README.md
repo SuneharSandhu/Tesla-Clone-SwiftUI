@@ -1,6 +1,6 @@
 # Tesla-Clone-SwiftUI
 
-This project is a clone of the Tesla mobile app built in Swift and SwiftUI. The purpose of this project was to focus on the UI/UX implementation and not on creating a functional app that can control an actual Tesla vehicle.
+This project is a clone of the Tesla mobile app built in Swift and SwiftUI. The purpose of this project was to focus on the UI/UX implementation.
 
 ## Features
 - Customizable vehicle settings
@@ -27,4 +27,4 @@ This project is a clone of the Tesla mobile app built in Swift and SwiftUI. The 
 <img src="https://user-images.githubusercontent.com/16765940/213946037-98f5a3a5-1440-43b3-ae59-bf4e2b28256e.png" width="350" height="800"> | <img src="https://user-images.githubusercontent.com/16765940/213946038-9a48f344-cbf3-4c3a-989f-d24862422813.png" width="350" height="800">  
 
 ## Note
-This project is a proof-of-concept and not intended for use with actual Tesla vehicles. The remote control capabilities and other features have not been implemented to function with real-world data.
+This project is a proof-of-concept and not intended for use with actual Tesla vehicles.
