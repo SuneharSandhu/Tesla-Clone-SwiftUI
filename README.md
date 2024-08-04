@@ -1,6 +1,6 @@
 # Tesla-Clone-SwiftUI
 
-This project is a clone of the Tesla mobile app built in Swift and SwiftUI. The purpose of this project was to focus on the UI/UX implementation.
+This project is a clone of the Tesla mobile app built in Swift and SwiftUI. The purpose of this project was to focus on UI/UX implementation.
 
 ## Features
 - Customizable vehicle settings
